@@ -1,7 +1,7 @@
 # Panda-for-Alacritty
 🐼 [Panda color sheme](https://github.com/PandaTheme) for [alacritty](https://github.com/alacritty/alacritty)
 
-Mostly based on https://github.com/PandaTheme/hyperterm-panda, but cyan color code taken from https://github.com/SuddenGunter/Panda-for-Xresources/edit/master/README.md.
+Mostly based on https://github.com/PandaTheme/hyperterm-panda, but cyan color code taken from https://github.com/SuddenGunter/Panda-for-Xresources.
 
 ![Screenshot](https://raw.githubusercontent.com/SuddenGunter/Panda-for-Alacritty/master/panda.png)
 
